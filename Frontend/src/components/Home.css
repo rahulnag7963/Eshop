@@ -1,0 +1,12 @@
+.main-text{
+    position: relative;
+}
+
+
+.image-text{
+    position: absolute;
+    right: 50%;
+    left: 40%;
+    bottom: 25%;
+}
+
